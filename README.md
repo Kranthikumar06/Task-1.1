@@ -42,4 +42,3 @@ A Streamlit web app to manage and analyze student performance data using MySQL.
 - `db.sql`: MySQL table creation script
 - `requirements.txt`: Python dependencies
 - `README.md`: Project explanation
-- `Screenshots/`: App screenshots
